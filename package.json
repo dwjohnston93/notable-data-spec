@@ -1,0 +1,22 @@
+{
+  "name": "notable-take-home",
+  "version": "1.0.0",
+  "description": "notable take home challenge scraping data.gov",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwjohnston93/notable-data-spec.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwjohnston93/notable-data-spec/issues"
+  },
+  "homepage": "https://github.com/dwjohnston93/notable-data-spec#readme",
+  "dependencies": {
+    "puppeteer": "^1.12.2"
+  }
+}
